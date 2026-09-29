@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 ![Location](https://img.shields.io/badge/Chennai-India-ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge)
 
